@@ -1,0 +1,36 @@
+/*MENU TOPO */
+.menuFixo {
+    position: fixed;
+    top: 0;
+    z-index: 99;
+}
+#menuHeader ul{
+    text-align: right;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    float: left;
+    width: 100%;
+}
+#menuHeader ul li { display: inline;}
+#menuHeader ul li a {
+    padding: 2px 10px;
+    display: inline-block;
+
+    /* visual do link */
+    background-color:#EDEDED;
+    color: #333
+    ;            text-decoration: none;
+    border-bottom:3px solid #EDEDED;
+}
+
+/* FIM MENU TOPO */
+.imgPost{
+   width: 450px;
+
+}
+.imgJogo{
+    width: 50px;
+    padding: 20px;
+    float: left;
+}
