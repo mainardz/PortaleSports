@@ -2,7 +2,13 @@
 
 Pmi - Allan Mainardes
 
-Ferramentas utilizadas: </br>
+<strong>Ferramentas utilizadas:</strong> </br>
   Astah para fazer os diagramas. </br>
-  Axure para prototipação de telas. </br>
   Word para descrição de caso de uso com as imagens.</br>
+  
+  Axure para prototipação de telas. </br>
+  Link para visualização do protótipo no axure https://an1b3f.axshare.com/ </br></br>
+  
+<strong>Desenvolvimento:</strong> </br>
+PHP - MySQL - Javascript - Bootstrap - HTML - CSS
+  
